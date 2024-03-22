@@ -1,0 +1,30 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/bauKfP3CX5JPAXpmveOlPG1pngC.jpg",
+      "id": 33880,
+      "name": "The Legend of Korra",
+      "original_language": "en",
+      "original_name": "The Legend of Korra",
+      "overview": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on her quest to become a fully realized Avatar. In this story, the Avatar struggles to find balance within herself.",
+      "poster_path": "/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
+      "genre_ids": [
+        16,
+        10759,
+        10765,
+        18
+      ],
+      "popularity": 210.486,
+      "first_air_date": "2012-04-14",
+      "vote_average": 8.254,
+      "vote_count": 1959,
+      "origin_country": [
+        "US"
+      ]
+    }
+  ],
+  "total_pages": 2,
+  "total_results": 40
+}

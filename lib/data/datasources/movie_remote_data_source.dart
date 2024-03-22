@@ -1,6 +1,8 @@
+// ignore_for_file: constant_identifier_names
+
 import 'dart:convert';
 
-import 'package:ditonton/data/models/movie_detail_model.dart';
+import 'package:ditonton/data/models/movie_detail_response.dart';
 import 'package:ditonton/data/models/movie_model.dart';
 import 'package:ditonton/data/models/movie_response.dart';
 import 'package:ditonton/common/exception.dart';
